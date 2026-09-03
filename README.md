@@ -1,6 +1,8 @@
 # Nicolay Kopaas
 
-Student ved NTNU i Trondheim. Jeg bygger produkter ved å styre AI, og verifiserer selv at det som kommer ut faktisk virker.
+Andreårsstudent på ingeniørvitenskap ved NTNU i Trondheim. Jeg bygger produkter ved å styre AI, og verifiserer selv at det som kommer ut faktisk virker.
+
+Prosjektene under er bygget på eget initiativ, ved siden av studiet, ut fra problemer jeg selv har kjent på. Jeg tar dem lenger enn en øving krever fordi det er der erfaringen ligger, og fordi jeg vil vite hvordan noe oppfører seg når det møter ekte data og ekte brukere.
 
 ## Slik jobber jeg
 
