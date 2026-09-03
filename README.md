@@ -6,9 +6,9 @@ Prosjektene under er bygget på eget initiativ, ved siden av studiet, ut fra pro
 
 ## Slik jobber jeg
 
-Jeg bruker Claude Code til å skrive det meste av koden. Min jobb er å bryte ned problemet, styre implementasjonen, lese kritisk gjennom det som kommer ut, og teste det mot ekte data før noe får stå. AI-en skriver koden. Den får ikke avgjøre om den virker.
+Jeg bruker Claude Code til å skrive det meste av koden. Deretter tester jeg og verifiserer at ting fungerer slik det skal, retter feil og passer på at løsningene er effektive.
 
-Arbeidsmåten gjør at jeg får bygget mye på kort tid, men den forutsetter at jeg faktisk sjekker. Hvert prosjekt under har en README som sier hva jeg verifiserte, og hvorfor løsningen ser ut som den gjør.
+Arbeidsmåten gjør at jeg får bygget mye på kort tid, og mesteparten av tiden går til planlegging og testing. Hvert prosjekt under har en README som sier hva jeg verifiserte, og hvorfor løsningen ser ut som den gjør.
 
 ## Prosjekter
 
