@@ -14,9 +14,9 @@ Arbeidsmåten gjør at jeg får bygget mye på kort tid, og mesteparten av tiden
 
 | Prosjekt | Hva det er | Teknologi | Vanskeligste beslutning |
 |---|---|---|---|
-| [AnbudsRadar](https://github.com/Nicolaykopaas/anbudsradar) | Matcher offentlige anbud mot bedriftene som faktisk kan ta jobben | Python, Streamlit, to offentlige API-er | Å bygge koblingen mellom EUs anbudskoder og norske næringskoder for hånd, fordi ingen offisiell finnes |
-| [Byggeradar](https://github.com/Nicolaykopaas/byggeradar) | Landsdekkende oversikt over nye byggetillatelser, kuratert per fag | Python, Streamlit, én kildeadapter per kommune | Å skrote hele betalingsmodellen etter at GDPR og tallene viste at den ikke holdt |
-| [adkiller](https://github.com/Nicolaykopaas/adkiller) | Chrome-utvidelse med syv lag annonseblokkering | JavaScript, Manifest V3 | Å bygge sju lag framfor ett, fordi nettverksblokkering alene er maktesløs mot YouTube |
+| [AnbudsRadar](https://github.com/Nicolaykopaas/anbudsradar) | Matcher offentlige anbud mot bedriftene som faktisk kan ta jobben | Python, Streamlit, to offentlige API-er | Bygge en oversetter fra hvordan EU kategorierser bedrifter til norske standarder |
+| [Byggeradar](https://github.com/Nicolaykopaas/byggeradar) | Landsdekkende oversikt over nye byggetillatelser, kuratert per fag | Python, Streamlit, én kildeadapter per kommune | Finne løsning på markedsføring, etter at GDPR reglene gjør email markedsføring ulovlig til privatpersoner |
+| [adkiller](https://github.com/Nicolaykopaas/adkiller) | Chrome-utvidelse med syv lag annonseblokkering | JavaScript, Manifest V3 | Hvert nye lag med blokkeringer/sperremetoder gjør nettsidene tregere, veie opp kost nytte for å fjerne annonser  |
 | [Boligregnskap](https://github.com/Nicolaykopaas/boligregnskap) | Regnskap, skatteestimat og leieprisanslag for utleieboliger | Java 21, Spring Boot 3 | Å holde det på filbasert H2 framfor å dra inn en databaseserver for én bruker |
 
 ## Teknologi
