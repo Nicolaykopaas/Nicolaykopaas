@@ -1,27 +1,25 @@
-# Nicolay Kopaas
+# Hei, jeg er Nicolay
 
-Andreårsstudent på Ingeniørvitenskap og IKT ved NTNU i Trondheim. Jeg bygger produkter ved å styre AI, og verifiserer selv at det som kommer ut faktisk virker.
+Jeg går andre året på Ingeniørvitenskap og IKT på NTNU i Trondheim. Ved siden av studiet bygger jeg ting som løser problemer jeg selv har kjent på, eller som folk rundt meg klager over. Det starter gjerne med «det må da gå an å gjøre dette enklere», og ender som et prosjekt jeg ikke klarer å legge fra meg.
 
-Prosjektene under er bygget på eget initiativ, ved siden av studiet, ut fra problemer jeg selv har kjent på. Jeg tar dem lenger enn en øving krever fordi det er der erfaringen ligger, og fordi jeg vil vite hvordan noe oppfører seg når det møter ekte data og ekte brukere.
+## Hvordan jeg jobber
 
-## Slik jobber jeg
-
-Jeg bruker Claude Code til å skrive det meste av koden. Deretter tester jeg og verifiserer at ting fungerer slik det skal, retter feil og passer på at løsningene er effektive.
-
-Arbeidsmåten gjør at jeg får bygget mye på kort tid, og mesteparten av tiden går til planlegging og testing. Hvert prosjekt under har en README som sier hva jeg verifiserte, og hvorfor løsningen ser ut som den gjør.
+Jeg bruker mest tid før og etter selve kodingen. Først på å forstå problemet og finne ut hva løsningen egentlig må gjøre, så på å teste den mot ekte data og fikse det som ikke holder. Jeg liker å få noe opp og kjøre tidlig, og heller forbedre det underveis enn å planlegge meg bort. I hver README skriver jeg hva jeg har testet, og hvorfor ting er bygget som de er.
 
 ## Prosjekter
 
-| Prosjekt | Hva det er | Teknologi | Vanskeligste beslutning |
+| Prosjekt | Hva det er | Teknologi | Det vanskeligste valget |
 |---|---|---|---|
-| [AnbudsRadar](https://github.com/Nicolaykopaas/anbudsradar) | Matcher offentlige anbud mot bedriftene som faktisk kan ta jobben | Python, Streamlit, to offentlige API-er | Bygge en oversetter fra hvordan EU kategorierser bedrifter til norske standarder |
-| [Byggeradar](https://github.com/Nicolaykopaas/byggeradar) | Landsdekkende oversikt over nye byggetillatelser, kuratert per fag | Python, Streamlit, én kildeadapter per kommune | Finne løsning på markedsføring, etter at GDPR reglene gjør email markedsføring ulovlig til privatpersoner |
-| [adkiller](https://github.com/Nicolaykopaas/adkiller) | Chrome-utvidelse med syv lag annonseblokkering | JavaScript, Manifest V3 | Hvert nye lag med blokkeringer/sperremetoder gjør nettsidene tregere, veie opp kost nytte for å fjerne annonser  |
-| [Boligregnskap](https://github.com/Nicolaykopaas/boligregnskap) | Regnskap, skatteestimat og leieprisanslag for utleieboliger | Java 21, Spring Boot 3 | Å holde det på filbasert H2 framfor å dra inn en databaseserver for én bruker |
+| [AnbudsRadar](https://github.com/Nicolaykopaas/anbudsradar) | Henter offentlige anbud fra Doffin og finner bedriftene som faktisk kan ta jobben | Python, pandas, Streamlit, Doffin- og Brreg-API | EU og Norge deler inn bransjer helt forskjellig, så jeg måtte lage min egen oversettelse mellom de to systemene |
+| [Byggeradar](https://github.com/Nicolaykopaas/byggeradar) | Samler nye byggetillatelser fra hele landet og sorterer dem etter fag | Python, Streamlit, egen adapter per kommune | GDPR gjør det ulovlig å sende reklame på e-post til privatpersoner, så jeg måtte tenke nytt rundt hvordan tipsene skal nå fram |
+| [adkiller](https://github.com/Nicolaykopaas/adkiller) | Chrome-utvidelse som blokkerer annonser i sju lag | JavaScript, Manifest V3 | Hvert nytt lag gjør sidene litt tregere, så jeg måtte finne ut hvor grensen går før det ikke lenger er verdt det |
+| [Boligregnskap](https://github.com/Nicolaykopaas/boligregnskap) | Regnskap, skatteanslag og leieprisestimat for utleieboliger | Java 21, Spring Boot 3 | Holdt meg til en enkel fildatabase (H2) i stedet for en egen databaseserver, siden det bare er én bruker |
+
+Akkurat nå jobber jeg også med en mobilapp for festivaler, som skal gjøre vakter, timeplaner og kontaktinfo enklere for artister, frivillige og ansatte. Den lager jeg sammen med en som kjenner bransjen fra innsiden.
 
 ## Teknologi
 
-Python, Java, TypeScript og JavaScript. Spring Boot, React, Streamlit og pandas. Mest erfaring med offentlige API-er, datamatching og språkmodeller i produkt.
+Mest Python og Java, men også TypeScript og JavaScript. Jeg har jobbet mye med Spring Boot, React, Streamlit og pandas, og liker best prosjekter der offentlige data, matching og språkmodeller møtes.
 
 ## Kontakt
 
