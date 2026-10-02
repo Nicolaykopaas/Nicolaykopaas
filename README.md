@@ -1,10 +1,7 @@
 # Hei, jeg er Nicolay
 
-Jeg går andre året på Ingeniørvitenskap og IKT på NTNU i Trondheim. Ved siden av studiet bygger jeg ting som løser problemer jeg selv har kjent på, eller som folk rundt meg klager over. Det starter gjerne med «det må da gå an å gjøre dette enklere», og ender som et prosjekt jeg ikke klarer å legge fra meg.
+Jeg går andre året på Ingeniørvitenskap og IKT på NTNU i Trondheim.
 
-## Hvordan jeg jobber
-
-Jeg bruker mest tid før og etter selve kodingen. Først på å forstå problemet og finne ut hva løsningen egentlig må gjøre, så på å teste den mot ekte data og fikse det som ikke holder. Jeg liker å få noe opp og kjøre tidlig, og heller forbedre det underveis enn å planlegge meg bort. I hver README skriver jeg hva jeg har testet, og hvorfor ting er bygget som de er.
 
 ## Prosjekter
 
